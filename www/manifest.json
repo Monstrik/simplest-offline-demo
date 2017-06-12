@@ -1,0 +1,7 @@
+{
+  "short_name": "SimplestOfflineDemo",
+  "name": "Simplest Offline Demo",
+  "description": "Progressive Web Application demo",
+  "start_url": "./?utm_source=web_app_manifest",
+  "display": "standalone"
+}
